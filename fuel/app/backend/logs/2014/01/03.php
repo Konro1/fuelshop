@@ -430,3 +430,28 @@ WARNING - 2014-01-03 17:06:34 --> Fuel\Core\Fuel::init - The configured locale e
 ERROR - 2014-01-03 17:06:35 --> Fatal Error - Class 'Products\Validation' not found in /srv/www/fuelshop.mls/fuel/app/backend/modules/products/classes/model/product.php on line 32
 WARNING - 2014-01-03 17:06:50 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
 WARNING - 2014-01-03 17:07:05 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2014-01-03 17:37:19 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2014-01-03 17:37:47 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2014-01-03 17:37:47 --> Fatal Error - Class 'Nav' not found in /srv/www/fuelshop.mls/fuel/app/backend/views/layouts/template.php on line 12
+WARNING - 2014-01-03 17:38:14 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2014-01-03 17:38:14 --> Fatal Error - Class 'Nav\Nav' not found in /srv/www/fuelshop.mls/fuel/app/backend/views/layouts/template.php on line 12
+WARNING - 2014-01-03 17:38:16 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2014-01-03 17:38:16 --> Fatal Error - Class 'Nav\Nav' not found in /srv/www/fuelshop.mls/fuel/app/backend/views/layouts/template.php on line 12
+WARNING - 2014-01-03 17:38:17 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2014-01-03 17:38:17 --> Fatal Error - Class 'Nav\Nav' not found in /srv/www/fuelshop.mls/fuel/app/backend/views/layouts/template.php on line 12
+WARNING - 2014-01-03 17:38:44 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2014-01-03 17:38:44 --> Fatal Error - Class 'Nav\Nav' not found in /srv/www/fuelshop.mls/fuel/app/backend/views/layouts/template.php on line 13
+WARNING - 2014-01-03 17:39:08 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2014-01-03 17:39:08 --> Fatal Error - Call to undefined method Nav\Controller_Nav::menu() in /srv/www/fuelshop.mls/fuel/app/backend/views/layouts/template.php on line 13
+WARNING - 2014-01-03 17:39:09 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2014-01-03 17:39:09 --> Fatal Error - Call to undefined method Nav\Controller_Nav::menu() in /srv/www/fuelshop.mls/fuel/app/backend/views/layouts/template.php on line 13
+WARNING - 2014-01-03 17:39:11 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2014-01-03 17:39:11 --> Fatal Error - Call to undefined method Nav\Controller_Nav::menu() in /srv/www/fuelshop.mls/fuel/app/backend/views/layouts/template.php on line 13
+WARNING - 2014-01-03 17:39:27 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2014-01-03 17:39:27 --> Error - The requested view could not be found: /nav/menu in /srv/www/fuelshop.mls/fuel/core/classes/view.php on line 388
+WARNING - 2014-01-03 17:39:54 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2014-01-03 17:39:54 --> Error - The requested view could not be found: /nav/menu in /srv/www/fuelshop.mls/fuel/core/classes/view.php on line 388
+WARNING - 2014-01-03 17:39:56 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+ERROR - 2014-01-03 17:39:56 --> Error - The requested view could not be found: /nav/menu in /srv/www/fuelshop.mls/fuel/core/classes/view.php on line 388
+WARNING - 2014-01-03 17:40:08 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.
+WARNING - 2014-01-03 17:40:26 --> Fuel\Core\Fuel::init - The configured locale en_US is not installed on your system.

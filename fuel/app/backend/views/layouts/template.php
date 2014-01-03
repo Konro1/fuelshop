@@ -9,6 +9,8 @@
 	</style>
 </head>
 <body>
+<?php Module::load('nav') ?>
+<?php echo Nav\Controller_Nav::menu() ?>
 	<div class="container">
 		<div class="col-md-12">
 			<h1><?php echo $title; ?></h1>
