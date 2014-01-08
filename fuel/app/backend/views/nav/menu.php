@@ -16,9 +16,9 @@
 			<li class="dropdown">
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Магазин <b class="caret"></b></a>
 				<ul class="dropdown-menu">
-					<li><a href="#">Товари</a></li>
-					<li><a href="#">Категорії</a></li>
-					<li><a href="#">Опції</a></li>
+					<li><a href="/products">Товари</a></li>
+					<li><a href="/products/categories">Категорії</a></li>
+					<li><a href="/products/options">Опції</a></li>
 				</ul>
 			</li>
 		</ul>
@@ -29,17 +29,10 @@
 			<button type="submit" class="btn btn-default">Submit</button>
 		</form>
 		<ul class="nav navbar-nav navbar-right">
-			<li><a href="#">Link</a></li>
-			<li class="dropdown">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-				<ul class="dropdown-menu">
-					<li><a href="#">Action</a></li>
-					<li><a href="#">Another action</a></li>
-					<li><a href="#">Something else here</a></li>
-					<li class="divider"></li>
-					<li><a href="#">Separated link</a></li>
-				</ul>
+			<li>
+				<a href="">Ви ввійшли як Konro1</a>
 			</li>
+			<li><a href="/authorization/logout">Log out</a></li>
 		</ul>
 	</div><!-- /.navbar-collapse -->
 </nav>
